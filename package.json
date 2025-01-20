@@ -1,0 +1,23 @@
+{
+  "name": "2025.01-javascriptcourse",
+  "version": "1.0.0",
+  "description": "Curso de javascript dado por UDEMY, realizado en enero 2025.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ortizmarcosn/2025.01-JavascriptCourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ortizmarcosn/2025.01-JavascriptCourse/issues"
+  },
+  "homepage": "https://github.com/ortizmarcosn/2025.01-JavascriptCourse#readme",
+  "devDependencies": {
+    "rollup": "^4.31.0"
+  }
+}
