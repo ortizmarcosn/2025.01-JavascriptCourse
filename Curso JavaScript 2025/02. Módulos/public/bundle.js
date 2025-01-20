@@ -1,13 +1,9 @@
 'use strict';
 
-// carrito.js -> cómo está en el curso
+console.log('Soy codigo que se ejecuta desde el archivo emptyExport.js');
 
-var cart = () => {
-    console.log('Cart is working!!');
-};
+const correo = 'correo@correo.com';
 
 // index.js -> cómo está en el curso
 
-
-console.log('Archivo inicial - main - Test');
-cart();
+console.log(correo);

@@ -5,3 +5,6 @@ export default {
         format: 'cjs'
     }
 };
+
+// Ahora para compilar, en consola solamente necesito el command: npx rollup -c
+
